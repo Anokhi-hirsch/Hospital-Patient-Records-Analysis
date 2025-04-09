@@ -76,7 +76,7 @@ The final Tableau dashboard includes:
 
 This project highlights unstructured healthcare data into clear, actionable insights using Tableau. 
 
-## 🌐 View the Interactive Dashboard
+## View the Interactive Dashboard
 
 👉 [Open in Tableau Public](https://public.tableau.com/app/profile/anokhi.hirschelman/viz/PatientsRecordsAnalysis/Overview)
 
