@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Records Analysis — Tableau Dashboard
+# Hospital Patient Records Analysis — Tableau Dashboard
 
 This project showcases an end-to-end analysis of hospital patient records using Tableau. Given a raw dataset containing patient encounters, procedures, demographics, and cost details, I cleaned and transformed the data to create a professional, high-level KPI dashboard for hospital stakeholders.
 
@@ -6,7 +6,7 @@ The dashboard is designed to provide quick insights into patient trends, healthc
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Objective:**  
 To analyze hospital patient records and build an interactive Tableau dashboard that helps answer key operational and strategic questions, such as:
@@ -19,7 +19,7 @@ To analyze hospital patient records and build an interactive Tableau dashboard t
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Admission trends show fluctuations that may indicate seasonal patterns or resource bottlenecks.
 - Average stay duration is low, suggesting a high volume of outpatient visits.
@@ -29,18 +29,18 @@ To analyze hospital patient records and build an interactive Tableau dashboard t
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The final Tableau dashboard includes:
 
-- 📌 **KPIs**: Total patients, stay duration, average cost per visit, insured procedures, and insurance count.
-- 📈 **Operational Trends**: Admission rates over time, encounter types, and cost analysis.
-- 👥 **Demographics**: Gender breakdown, race distribution, and age category segmentation.
-- 📤 **Export Options**: Easily export visuals to PNG or PowerPoint for presentations.
+-  **KPIs**: Total patients, stay duration, average cost per visit, insured procedures, and insurance count.
+-  **Operational Trends**: Admission rates over time, encounter types, and cost analysis.
+-  **Demographics**: Gender breakdown, race distribution, and age category segmentation.
+-  **Export Options**: Easily export visuals to PNG or PowerPoint for presentations.
 
 ---
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 
 - **Tableau**: Data visualization and dashboard creation
 - **Calculated Fields**: Derived metrics such as age groups, insurance coverage, and admission status
@@ -48,13 +48,13 @@ The final Tableau dashboard includes:
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Overview](https://github.com/Anokhi-hirsch/Hospital-Patient-Records-Analysis/blob/main/Tableau%20Dashboard.png)
 
 ---
 
-## 📁 Deliverables
+##  Deliverables
 
 - Interactive Tableau dashboard (`.twbx`)
 - Cleaned dataset and calculated fields
@@ -62,7 +62,7 @@ The final Tableau dashboard includes:
 
 ---
 
-## ✅ Skills Demonstrated
+##  Skills Demonstrated
 
 - Data preparation and cleaning
 - KPI identification and definition
@@ -72,7 +72,7 @@ The final Tableau dashboard includes:
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This project highlights unstructured healthcare data into clear, actionable insights using Tableau. 
 
